@@ -3,3 +3,5 @@
 <p>As discussed in the video the current status of the app should do the CRUD operations and use the Ionic Native plugin.</p>
 
 <p>Capture the screenshots of each tab or screencast walking through the flow of each tab.</p>
+
+GIF and optional MP4 File is included in the Screencasts folder.
